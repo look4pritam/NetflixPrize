@@ -1,2 +1,1 @@
-# NetflixPrize
-Netflix Prize
+# Netflix Prize
